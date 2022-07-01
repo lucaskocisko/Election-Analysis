@@ -35,16 +35,16 @@ The purpose of this election audit is to gather the following information:
 - the county with the highest turnout
 - existing code already found similar info for candidates;(ln 6-10)
 
-![] (https://github.com/lucaskocisko/Election-Analysis/blob/main/countyiteration.png)
+![](https://github.com/lucaskocisko/Election-Analysis/blob/main/countyiteration.png)
 
-![] (https://github.com/lucaskocisko/Election-Analysis/blob/main/candidateiteration.png)
+![](https://github.com/lucaskocisko/Election-Analysis/blob/main/candidateiteration.png)
 
 Using list & dictionaries, variables & tickers, for loops,and decision & repetition statements I wrote code that sources data from a .csv file and writes a .txt file as output.
  
  ## Challenge Summary
  ### Election-Audit Results
  
-![] (https://github.com/lucaskocisko/Election-Analysis/blob/main/output.png)
+![](https://github.com/lucaskocisko/Election-Analysis/blob/main/output.png)
 
 #### Results
 * total votes = 369711
