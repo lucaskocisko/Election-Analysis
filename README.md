@@ -35,8 +35,7 @@ The purpose of this election audit is to gather the following information:
 - the county with the highest turnout
 - existing code already found similar info for candidates;(ln 6-10)
 
-# ![insert county screenshot]
-
+# ![] (https://github.com/lucaskocisko/Election-Analysis/blob/main/candidateiteration.png)
 # ![insert candidate screenshot]
 
 Using list & dictionaries, variables & tickers, for loops,and decision & repetition statements I wrote code that sources data from a .csv file and writes a .txt file as output.
